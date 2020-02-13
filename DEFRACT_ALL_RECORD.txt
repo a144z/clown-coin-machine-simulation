@@ -1,0 +1,32 @@
+Coin: -4343333
+
+Credit: 51505200
+
+solution 2 normal
+
+-6.7811%
+
+Coin: -4341361
+
+Credit: 85326400
+
+soltion 2 expert
+
++03.001130%
+
+
+Coin: -4393458
+
+Credit: 56577700
+
+solution 3 normal
+
++1.23123%
+
+Coin: -4393215
+
+Credit: 116231500
+
+soltion 3 expert
+
++37.23709%

@@ -1,0 +1,18 @@
+Coin: -4425585
+
+Credit: 54957000
+
+solution3
+
+Coin: -4454346
+
+Credit: 56469000
+
+solution4
+
+
+Coin: -4457233
+
+Credit: 55468000
+
+solution4
