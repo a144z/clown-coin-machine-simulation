@@ -1,5 +1,11 @@
+
 # clown-coin-machine-simulation with AI
 This is the clown coin machine ![clown coin machine simulation](images/clown_machine.jpg)
+
+
+[ ] AI improvement
+[ ] collision simulation
+[_] physical bias factor
 
 Find the correponds state
 ![explain](images/explaination.png)
@@ -14,5 +20,3 @@ Try to put coin in the corrsponds position
 ![put coin](images/solution.jpg)
 
 AI could be improve in the future to find best solution including defraction
-
-![LICENSE](LICENSE)
