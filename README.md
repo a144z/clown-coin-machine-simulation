@@ -14,3 +14,5 @@ Try to put coin in the corrsponds position
 ![put coin](images/solution.jpg)
 
 AI could be improve in the future to find best solution including defraction
+
+![LICENSE](LICENSE)
