@@ -26,4 +26,4 @@ Solution for {1010000} : 6
 ## AI could be improve in the future to find best solution including defraction
 
 # License
-### clown-coin-machine-simulation is licensed under the MIT License. The full license text is available in [LICENSE](LICENSE)
+#### clown-coin-machine-simulation is licensed under the MIT License. The full license text is available in [LICENSE](LICENSE)
