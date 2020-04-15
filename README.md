@@ -7,6 +7,7 @@ Find the correponds state
 Look in solution (current best solution: sheet solution 3)
 ![The best solution to use](images/solution_3.png)
 Solution for {1010000} : 6
+*Note that 9 is just claim reward which is the only case with all coins filled
 
 Try to put coin in the corrsponds position
 ![put coin](images/solution.jpg)
