@@ -6,7 +6,11 @@ Find the correponds state
 
 Look in solution (current best solution:solution 3)
 ![The best solution to use](images/solution_3.png)
-AI could be improve in the future to find best solution including defraction
+Solution for {1010000} : 6
 
-Try to put coin in the corrsponds solution
-![put coin](images/solution.jpeg)
+Try to put coin in the corrsponds position
+![put coin](images/solution.jpg)
+
+position 6
+
+AI could be improve in the future to find best solution including defraction
