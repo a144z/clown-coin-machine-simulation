@@ -2,10 +2,11 @@
 # clown-coin-machine-simulation with AI
 This is the clown coin machine ![clown coin machine simulation](images/clown_machine.jpg)
 
-
+[x] Reward calculation
 [ ] AI improvement
 [ ] collision simulation
-[_] physical bias factor
+[ ] physical bias factor
+
 
 Find the correponds state
 ![explain](images/explaination.png)
